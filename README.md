@@ -1,17 +1,22 @@
-# React + Vite
+🎬 Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a Netflix-inspired web application built to replicate the core features and user experience of the popular streaming platform Netflix. It showcases a modern UI with dynamic content rendering, smooth navigation, and responsive design for an engaging user experience.
 
-Currently, two official plugins are available:
+The application allows users to browse movies and TV shows, view detailed information, and explore different categories just like the original platform. It focuses on delivering a visually appealing interface along with efficient frontend and backend integration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Built using modern technologies, this project demonstrates skills in frontend development, API integration, authentication, and responsive design. It also highlights the ability to structure scalable applications and manage state effectively.
 
-## React Compiler
+Key features include dynamic movie listings, interactive UI components, search functionality, and user authentication (if implemented). The design closely follows Netflix’s layout, including banners, thumbnails, and categorized rows.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This project is ideal for learning and practicing full-stack development concepts, improving UI/UX skills, and understanding how real-world streaming platforms function.
 
-## Expanding the ESLint configuration
+🛠️ Tech Stack
+Frontend: React.js, Bootstrap
+Backend: Node.js, Express.js
+Database: MongoDB
+Other Tools: REST APIs, Git, GitHub
+🚀 Deployment & Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# Netflix-Clone
+The project is deployed and accessible online using Netlify, allowing users to experience the application in real time.
+
+🔗 Live Demo: https://nfclone0.netlify.app/
